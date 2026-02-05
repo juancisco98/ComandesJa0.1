@@ -1,0 +1,7 @@
+{
+  "name": "ComandesJa - Gestión de Pedidos",
+  "description": "Sistema SaaS multi-tenant para gestión de pedidos de restaurantes, cocina, menú digital y cierre de caja con soporte de impresión térmica.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
